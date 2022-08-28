@@ -179,6 +179,7 @@ sup {
   position: relative;
   top: -0.5em; }
 
+
 blockquote {
   border-left: solid 3px rgba(210, 215, 217, 0.75);
   font-style: italic;
@@ -2171,3 +2172,4 @@ table {
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
